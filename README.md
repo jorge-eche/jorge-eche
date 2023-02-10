@@ -1,14 +1,11 @@
-### Hi there 👋
+### Hi there, my name is Jorge 👋👨‍💻
+- 🌱 I’m currently learning anything on React web development, the sky is the limit!
+- 👯 I’m looking to collaborate with fellow developers
+- 🔭 I’m currently working on diverse React projects that let me develop my knowledge even further!
 
-**jorge-eche/jorge-eche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
+**Find me around the web 🌏:**
+<ul> 
+  <li> Displaying my work on my Portfolio: https://jorgeecheverria.netlify.app/ </li>
+  <li> Sharing updates on LinkedIn: https://www.linkedin.com/in/jorgee-echeverria/ </li>
+  <li> Following my favorite people and reading the news on Twitter: https://twitter.com/CokoEche</li>
+</ul>
