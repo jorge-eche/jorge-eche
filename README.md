@@ -1,9 +1,9 @@
-### Hi there, my name is Jorge 👋👨‍💻
+### Hello World, my name is Jorge 👋🌏👨‍💻
 - 🌱 I’m currently learning anything on React web development, the sky is the limit!
 - 👯 I’m looking to collaborate with fellow developers
 - 🔭 I’m currently working on a diverse range of React projects that let me develop my knowledge even further!
 
-**Find me around the web 🌏:**
+**Find me around the web 🌐:**
 <ul> 
   <li> Displaying my work on my Portfolio: https://jorgeecheverria.netlify.app/ </li>
   <li> Sharing updates on LinkedIn: https://www.linkedin.com/in/jorgee-echeverria/ </li>
