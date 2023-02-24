@@ -1,3 +1,4 @@
+![Header Image](./github-header-image.png)
 ### Hello World, my name is Jorge 👋🌏👨‍💻
 - 🌱 I’m currently learning anything on React web development, the sky is the limit!
 - 👯 I’m looking to collaborate with fellow developers
