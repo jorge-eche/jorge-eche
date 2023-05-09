@@ -2,7 +2,7 @@
 ### Hello, World! My name is Jorge 👋🌏👨‍💻
 - 🌱 Passionate about learning anything on React web development. The sky is the limit! 
 - 👯 I enjoy collaborating with fellow developers, team work is fun work!
-- 🔭 I’m currently studying Testing and looking for a fulltime developer job! 
+- 🔭 I’m currently studying Testing and TypeScript and looking for a fulltime developer job! 
 - ⚙️ I love using HTML5, CSS3, Git, JavaScript, React (Functional components, Hooks, Custom Hooks), React Router, Bootstrap, Tailwind, Styled Components and more!
 
 **Find me around the web... 🌐:**
