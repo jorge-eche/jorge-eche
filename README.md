@@ -1,4 +1,4 @@
-![Header Image](./github-header-image3.png)
+![Header Image](./github-header-image2.png)
 ### Hello, World! My name is Jorge 👋🌏👨‍💻
 - 🌱 Passionate about learning anything on React web development. The sky is the limit! 
 - 👯 I enjoy collaborating with fellow developers, team work is fun work!
