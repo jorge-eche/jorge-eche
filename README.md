@@ -1,10 +1,10 @@
 ![Header Image](./github-header-image2.png)
 ### Hello, World! My name is Jorge 👋🌏👨‍💻
 - 🌱 Passionate about learning anything on React web development. The sky is the limit! 
+- 🔭 I’m currently studying TESTING WITH JEST AND REACT TESTING LIBRARY and looking for a fulltime developer job! 
 - 👯 I enjoy collaborating with fellow developers, team work is fun work!
-- 🔭 I’m currently studying Testing and TypeScript and looking for a fulltime developer job! 
-- ⚙️ I love using HTML5, CSS3, Git, JavaScript, React (Functional components, Hooks, Custom Hooks), React Router, Bootstrap, Tailwind, Styled Components and more!
-
+- ⚙️ I love using React (Functional components, Hooks, Custom Hooks, React Router), JavaScript, Node.js, Express.js, PostgreSQL, HTML5, CSS3, Git, Bootstrap, Tailwind, Styled Components and more!
+- 
 **Find me around the web... 🌐:**
 <ul> 
   <li> Displaying my work on my Portfolio: https://jorgeecheverria.netlify.app/ </li>
