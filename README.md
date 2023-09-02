@@ -3,7 +3,7 @@
 - 🌱 Passionate about learning anything on React web development. The sky is the limit! 
 - 🔭 I’m currently studying ADVANCED REACT and looking for a fulltime developer job! 
 - 👯 I enjoy collaborating with fellow developers, team work is fun work!
-- ⚙️ I love using React, JavaScript, Node.js, Express.js, PostgreSQL, HTML5, CSS3, Git, Bootstrap, Tailwind, Styled Components and more!
+- ⚙️ I love using React, TypeScript, JavaScript, Node.js, Express.js, PostgreSQL, HTML5, CSS3, Git, Bootstrap, Tailwind, Styled Components and more!
 - 
 **Find me around the web... 🌐:**
 <ul> 
