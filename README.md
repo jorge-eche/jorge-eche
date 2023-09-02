@@ -7,7 +7,7 @@
 - 
 **Find me around the web... 🌐:**
 <ul> 
-  <li> Displaying my work on my Portfolio: https://jorgeecheverria.netlify.app/ </li>
+  <li> Displaying my projects on my Portfolio: https://jorgeecheverria.netlify.app/ </li>
   <li> Sharing updates on LinkedIn: https://www.linkedin.com/in/jorgee-echeverria/ </li>
   <li> Following my favorite people and reading the news on Twitter: https://twitter.com/CokoEche</li>
 </ul>
